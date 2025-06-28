@@ -3,26 +3,24 @@
 
 ---
 
-<table>
-<tr>
-  <td width="55%" valign="top">
-    
-  <h3>👨‍💻 About Me</h3>
-  <ul>
-    <li>🔭 Currently working on <strong>Minilink</strong></li>
-    <li>🌱 Learning <strong>Web3, Blockchain</strong></li>
-    <li>💬 Ask me about <strong>React, Node, Express</strong></li>
-    <li>📫 Reach me at: <a href="mailto:ragnarviju2004@gmail.com">ragnarviju2004@gmail.com</a></li>
-    <li>📄 <a href="https://drive.google.com/file/d/16sseIN2V41qe4GTVpmjxoa7E1PQCI9UC/view?usp=share_link" target="_blank">View my Resume</a></li>
-    <li>⚡ Fun fact: <code>npm install</code> broke my weekend plans</li>
-  </ul>
+<!-- 🚀 ABOUT ME + GIF SIDE-BY-SIDE -->
+<div align="center">
 
-  </td>
-  <td width="45%" align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" width="300"/>
-  </td>
-</tr>
-</table>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding" />
+
+  <div align="left">
+
+  ### 👨‍💻 About Me
+
+  - 🔭 Currently working on **Minilink**  
+  - 🌱 Learning **Web3, Blockchain**  
+  - 💬 Ask me about **React, Node, Express**  
+  - 📫 Reach me at: [ragnarviju2004@gmail.com](mailto:ragnarviju2004@gmail.com)  
+  - 📄 [View my Resume](https://drive.google.com/file/d/16sseIN2V41qe4GTVpmjxoa7E1PQCI9UC/view?usp=share_link)  
+  - ⚡ Fun fact: `npm install` broke my weekend plans  
+
+  </div>
+</div>
 
 ---
 
