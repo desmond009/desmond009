@@ -3,91 +3,94 @@
 
 ---
 
-<!-- 🚀 ABOUT ME + GIF SIDE-BY-SIDE -->
 <div align="center">
-
   <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding" />
-
+  
   <div align="left">
 
-  ### 👨‍💻 About Me
+### 👨‍💻 About Me
 
-  - 🔭 Currently working on **Minilink**  
-  - 🌱 Learning **Web3, Blockchain**  
-  - 💬 Ask me about **React, Node, Express**  
-  - 📫 Reach me at: [ragnarviju2004@gmail.com](mailto:ragnarviju2004@gmail.com)  
-  - 📄 [View my Resume](https://drive.google.com/file/d/16sseIN2V41qe4GTVpmjxoa7E1PQCI9UC/view?usp=share_link)  
-  - ⚡ Fun fact: `npm install` broke my weekend plans  
+- 🔭 Currently working on **Minilink**
+- 🌱 Learning **Web3, Blockchain**
+- 💬 Ask me about **React, Node, Express**
+- 📫 Reach me at: [ragnarviju2004@gmail.com](mailto:ragnarviju2004@gmail.com)
+- 📄 [My Resume](https://drive.google.com/file/d/16sseIN2V41qe4GTVpmjxoa7E1PQCI9UC/view?usp=share_link)
+- ⚡ Fun fact: `npm install` broke my weekend plans 😅
 
   </div>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=desmond009&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
+### 🧠 Learning & Growth
+
+- 🛠️ Exploring the depths of Web3 development
+- 🔐 Building side projects on secure, scalable backend systems
+- 🧩 Learning system design and distributed architecture
 
 ---
 
-### 📲 Connect with me
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <a href="https://twitter.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vijender-yadav-iiit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/vijender-yadav" target="blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://instagram.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/ragnarvi3t1m" target="blank"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/vijender-yadav" target="blank"><img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://instagram.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/vij_yadav_viju_" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/ragnarvi3t1m" target="blank"><img src="https://img.shields.io/badge/GFG-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<!-- Add or remove as needed -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,react,nextjs,express,mongodb,mysql,tailwind,html,css,git,postman,linux,firebase,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmond009&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=desmond009&show_icons=true&theme=radical" />
-</p>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=desmond009&show_icons=true&theme=react&rank_icon=github" alt="GitHub Stats" width="48%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=desmond009&theme=react" alt="GitHub Streak" width="48%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desmond009&layout=compact&theme=react&langs_count=8" alt="Top Languages" width="50%" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=desmond009&theme=react-dark" alt="Activity Graph" width="95%" />
+
+</div>
 
 ---
 
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/desmond009/desmond009/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/desmond009/desmond009/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🔢 View Counter
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=desmond009&theme=algolia&row=1&margin-w=15" />
+</p>
+
+---
+
+### 📊 View Counter
 
 <p align="center">
   <img src="https://count.getloli.com/get/@desmond009?theme=rule34" />
@@ -95,8 +98,9 @@
 
 ---
 
-### 🏆 GitHub Trophy Wall
+### 💬 Dev Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=desmond009&theme=algolia" />
-</p>
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
+
+---
