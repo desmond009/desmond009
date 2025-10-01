@@ -14,7 +14,7 @@
 - 🌱 Learning **Web3, Blockchain**
 - 💬 Ask me about **React, Node, Express**
 - 📫 Reach me at: [ragnarviju2004@gmail.com](mailto:ragnarviju2004@gmail.com)
-- 📄 [My Resume](https://drive.google.com/file/d/16sseIN2V41qe4GTVpmjxoa7E1PQCI9UC/view?usp=share_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1anyrpnRczabBAGAIK0cjEL7pq7X2dOTP/view?usp=share_link)
 - ⚡ Fun fact: `npm install` broke my weekend plans 😅
 
   </div>
