@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12" />
+      <stop offset="50%" stop-color="#0B0F19" />
+      <stop offset="100%" stop-color="#0E1626" />
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="45%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8" />
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="15%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="85%" cy="65%" r="40%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+      font-weight: 800;
+      font-size: 50px;
+      letter-spacing: -0.5px;
+    }
+    .role-badge-text {
+      font-family: 'SF Mono', Monaco, Consolas, 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      fill: #38BDF8;
+    }
+    .subtext {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+      font-size: 17px;
+      font-weight: 400;
+      fill: #94A3B8;
+    }
+    .status-text {
+      font-family: 'SF Mono', Monaco, Consolas, 'Courier New', monospace;
+      font-size: 12px;
+      font-weight: 500;
+      fill: #CBD5E1;
+    }
+    .dot-pulse {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+  </style>
+
+  <!-- Container Box with Rounded Corners -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.5" />
+
+  <!-- Background Grid & Glows -->
+  <rect x="4" y="4" width="1192" height="332" rx="14" fill="url(#grid)" />
+  <rect x="4" y="4" width="1192" height="332" rx="14" fill="url(#glowLeft)" />
+  <rect x="4" y="4" width="1192" height="332" rx="14" fill="url(#glowRight)" />
+
+  <!-- Window Chrome Header Bar -->
+  <rect x="4" y="4" width="1192" height="42" rx="14" fill="#0E1626" fill-opacity="0.85" />
+  <line x1="4" y1="46" x2="1196" y2="46" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="34" cy="25" r="6" fill="#EF4444" />
+  <circle cx="54" cy="25" r="6" fill="#F59E0B" />
+  <circle cx="74" cy="25" r="6" fill="#10B981" />
+
+  <!-- Terminal Title -->
+  <text x="50%" y="29" text-anchor="middle" class="status-text" fill="#64748B">vijender@kernel: ~ /portfolio (v2.5.0)</text>
+
+  <!-- Live Status Chip in Header -->
+  <g transform="translate(1020, 14)">
+    <rect x="0" y="0" width="145" height="22" rx="11" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="14" cy="11" r="4" fill="#10B981" class="dot-pulse" />
+    <text x="26" y="15" font-family="'SF Mono', Monaco, monospace" font-size="11" font-weight="600" fill="#34D399">SYSTEM ACTIVE</text>
+  </g>
+
+  <!-- Decorative Circuit lines on Right -->
+  <g stroke="#38BDF8" stroke-opacity="0.22" stroke-width="1.5" fill="none">
+    <path d="M 980 110 L 1050 110 L 1090 150 L 1140 150" />
+    <circle cx="1140" cy="150" r="3" fill="#38BDF8" fill-opacity="0.5" />
+    <path d="M 1010 190 L 1060 190 L 1100 230 L 1140 230" />
+    <circle cx="1140" cy="230" r="3" fill="#818CF8" fill-opacity="0.5" />
+    <path d="M 930 270 L 1020 270 L 1050 300 L 1120 300" />
+    <circle cx="1120" cy="300" r="3" fill="#C084FC" fill-opacity="0.5" />
+  </g>
+
+  <!-- Sub-Badge Category -->
+  <g transform="translate(56, 92)">
+    <rect x="0" y="0" width="370" height="26" rx="6" fill="#38BDF8" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1" />
+    <text x="14" y="18" class="role-badge-text">⚡ FULL STACK • WEB3 • AI / VOICE</text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="56" y="174" class="title" fill="url(#textGradient)">VIJENDER YADAV</text>
+
+  <!-- Descriptive Subtitle -->
+  <text x="56" y="214" class="subtext">
+    Engineering resilient web architectures, decentralized protocols, and intelligent voice systems.
+  </text>
+  <text x="56" y="240" class="subtext" font-size="15" fill="#64748B">
+    Building high-performance systems with clarity, precision, and modern engineering standards.
+  </text>
+
+  <!-- Quick Info Highlights Footer in Banner -->
+  <g transform="translate(56, 276)">
+    <!-- Pill 1: Internship -->
+    <rect x="0" y="0" width="225" height="30" rx="8" fill="#1E293B" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="14" y="20" class="status-text" fill="#94A3B8">💼 <tspan fill="#F8FAFC" font-weight="600">Full Stack Intern</tspan> @ HobbyFi</text>
+
+    <!-- Pill 2: Web3 -->
+    <rect x="240" y="0" width="195" height="30" rx="8" fill="#1E293B" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="254" y="20" class="status-text" fill="#94A3B8">⛓️ <tspan fill="#F8FAFC" font-weight="600">EVM &amp; Solana</tspan> Builder</text>
+
+    <!-- Pill 3: Location -->
+    <rect x="450" y="0" width="125" height="30" rx="8" fill="#1E293B" fill-opacity="0.7" stroke="#334155" stroke-width="1" />
+    <text x="464" y="20" class="status-text" fill="#94A3B8">📍 <tspan fill="#F8FAFC" font-weight="600">India</tspan></text>
+  </g>
+</svg>
