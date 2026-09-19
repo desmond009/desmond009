@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="100%" height="16">
+  <defs>
+    <linearGradient id="divLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0" />
+      <stop offset="15%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#334155" stop-opacity="1" />
+      <stop offset="85%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Animated Laser Sweep -->
+    <linearGradient id="laserGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base Line -->
+  <line x1="20" y1="8" x2="1180" y2="8" stroke="url(#divLine)" stroke-width="1.5" />
+
+  <!-- Animated Laser Pulse moving across -->
+  <rect x="0" y="6" width="200" height="4" rx="2" fill="url(#laserGlow)">
+    <animate attributeName="x" values="-200;1200" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Center Decorative Glow Node -->
+  <g transform="translate(600, 8)">
+    <circle cx="0" cy="0" r="4" fill="#38BDF8">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="8" fill="none" stroke="#818CF8" stroke-width="1" stroke-opacity="0.5">
+      <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="stroke-opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>

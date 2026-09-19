@@ -1,11 +1,18 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- HERO BANNER (Animated SVG with scanlines, pulses & data packet circuits) -->
 <img src="./assets/banner.svg" alt="Vijender Yadav - Hero Banner" width="100%" />
 
-<br/><br/>
+<br/>
 
-<!-- QUICK NAV & CONNECT PILLS -->
+<!-- ANIMATED TYPEWRITER HEADER -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=38&lines=Full+Stack+Developer+%40+HobbyFi;Web3+%26+DeFi+Protocol+Builder;AI+%26+Real-Time+Voice+Architect;High-Performance+Distributed+Systems" alt="Animated Roles Typewriter" />
+  </a>
+</p>
+
+<!-- QUICK ACTION PILLS -->
 <p align="center">
   <a href="https://www.vijender.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=38BDF8&labelColor=0D1117&color=1E293B" alt="Portfolio" />
@@ -29,43 +36,15 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### ⚡ Currently Building & System Status
+### ⚡ System Status & Current Builds
 
-```console
-$ sys-status --active-workstreams --verbose
-[SYSTEM] Cluster: Bengaluru / Online ● Environment: Production
-```
+<p align="center">
+  <img src="./assets/currently-building.svg" alt="System Status & Current Builds Dashboard" width="100%" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 <a href="https://github.com/desmond009">HobbyFi</a> &nbsp; <code>🟢 IN ACTIVE DEV</code></h4>
-      <p>Working as <b>Full Stack Developer Intern</b>. Building modern, performant web &amp; mobile user interfaces and scalable API integrations.</p>
-      <p><b>Stack:</b> React &bull; Node.js &bull; TypeScript &bull; C++ &bull; REST APIs</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔗 <a href="https://minilink-phi.vercel.app">Minilink</a> &nbsp; <code>🚀 PRODUCTION</code></h4>
-      <p>High-performance URL shortener, custom routing engine, and click analytics platform designed for sub-millisecond redirections.</p>
-      <p><b>Stack:</b> Next.js &bull; Express.js &bull; MongoDB &bull; Tailwind CSS</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌊 <a href="https://staking-contract-orca.vercel.app">OrcaEarn</a> &nbsp; <code>⛓️ DEPLOYED</code></h4>
-      <p>Decentralized staking protocol and DeFi application on EVM with custom yield-accrual smart contracts and responsive Web3 dashboard.</p>
-      <p><b>Stack:</b> Solidity &bull; Ethers.js &bull; React &bull; Hardhat &bull; Web3</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ AI &amp; Voice Intelligence &nbsp; <code>⚡ PROTOTYPING</code></h4>
-      <p>Building low-latency real-time voice synthesis workflows, conversational agents, and automated AI spatial verification systems.</p>
-      <p><b>Stack:</b> Python &bull; Voice AI &bull; LLM Orchestration &bull; WebSockets</p>
-    </td>
-  </tr>
-</table>
-
----
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🛠️ Technical Arsenal
 
@@ -82,15 +61,16 @@ $ sys-status --active-workstreams --verbose
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
+    <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h3>01. Minilink</h3>
-      <p>A production-ready URL management and redirection platform featuring real-time click analytics, custom short slugs, and responsive dashboard telemetry.</p>
+      <h3>🔗 Minilink</h3>
+      <p>High-speed URL shortener with live click analytics &amp; custom slugs.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="Next.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
@@ -101,9 +81,10 @@ $ sys-status --active-workstreams --verbose
         <a href="https://github.com/desmond009/Minilink"><b>📁 Source Code</b></a>
       </p>
     </td>
+    <!-- Project 2 -->
     <td width="50%" valign="top">
-      <h3>02. OrcaEarn</h3>
-      <p>Decentralized staking protocol enabling users to lock assets, earn yield tokens, and track real-time blockchain APR metrics with non-custodial wallet integration.</p>
+      <h3>🌊 OrcaEarn</h3>
+      <p>DeFi staking protocol &amp; smart contract yield accumulator on EVM.</p>
       <p>
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -116,22 +97,24 @@ $ sys-status --active-workstreams --verbose
     </td>
   </tr>
   <tr>
+    <!-- Project 3 -->
     <td width="50%" valign="top">
-      <h3>03. Sol_Faucet</h3>
-      <p>Solana network utility dApp enabling developers to request Devnet/Testnet SOL airdrops, inspect account balances, and interact with Solana RPC endpoints.</p>
+      <h3>🪙 Sol_Faucet</h3>
+      <p>Solana devnet airdrop faucet &amp; RPC wallet balance explorer.</p>
       <p>
         <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
       <p>
         <a href="https://sol-faucet-beta.vercel.app"><b>🌐 Live Demo</b></a> &bull; 
         <a href="https://github.com/desmond009/Sol_Faucet"><b>📁 Source Code</b></a>
       </p>
     </td>
+    <!-- Project 4 -->
     <td width="50%" valign="top">
-      <h3>04. SoulScript</h3>
-      <p>Full-stack reflective quotes and daily thoughts publishing ecosystem. Built with clean typography, user bookmarking, and responsive community interactions.</p>
+      <h3>✍️ SoulScript</h3>
+      <p>Daily reflective thoughts &amp; curated quotes publishing app.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
@@ -144,58 +127,50 @@ $ sys-status --active-workstreams --verbose
     </td>
   </tr>
   <tr>
+    <!-- Project 5 -->
     <td width="50%" valign="top">
-      <h3>05. QueueCTL</h3>
-      <p>Asynchronous CLI task runner and job queue controller for managing concurrent background operations, task scheduling, and error isolation.</p>
+      <h3>⚙️ QueueCTL</h3>
+      <p>Asynchronous background job queue runner &amp; worker CLI controller.</p>
       <p>
         <img src="https://img.shields.io/badge/CLI-Architecture-4B32C3?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Concurrency-0284C7?style=flat-square" alt="Concurrency" />
+        <img src="https://img.shields.io/badge/Async-Queue-0284C7?style=flat-square" alt="Queue" />
       </p>
       <p>
-        <a href="https://github.com/desmond009/QueueCTL"><b>📁 Source Code &bull; Repository</b></a>
+        <a href="https://github.com/desmond009/QueueCTL"><b>📁 View Repository</b></a>
       </p>
     </td>
+    <!-- Project 6 -->
     <td width="50%" valign="top">
-      <h3>06. AI Land Safety Validation</h3>
-      <p>Intelligent geospatial risk analysis and safety verification pipeline applying computer vision and spatial inference to evaluate terrain safety parameters.</p>
+      <h3>🛰️ AI Land Safety</h3>
+      <p>Computer vision &amp; spatial analysis pipeline for terrain risk validation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="CV" />
-        <img src="https://img.shields.io/badge/AI_Pipeline-00C49F?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/Vision_AI-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="CV" />
+        <img src="https://img.shields.io/badge/Spatial-Pipeline-00C49F?style=flat-square" alt="AI" />
       </p>
       <p>
-        <a href="https://github.com/desmond009/AI-Land-Safety-Validation-System"><b>📁 Source Code &bull; Repository</b></a>
+        <a href="https://github.com/desmond009/AI-Land-Safety-Validation-System"><b>📁 View Repository</b></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### 🗺️ Engineering Journey
+### 🗺️ Building Journey
 
-```text
-2026 ──────▶ [ Full Stack Developer Intern @ HobbyFi ]
-             Architecting core features, responsive web/mobile components, and API pipelines.
+<p align="center">
+  <img src="./assets/terminal-journey.svg" alt="Building Journey Git Log Terminal" width="100%" />
+</p>
 
-2025 ──────▶ [ Web3 & DeFi Ecosystem Engineering ]
-             Solana dApps, EVM staking protocols (OrcaEarn, Sol_Faucet), smart contracts.
-
-2024 ──────▶ [ Full Stack Products & Scalable Systems ]
-             Production web apps (Minilink, SoulScript), microservices, database schemas.
-
-2023 ──────▶ [ CS Foundations & Algorithmic Rigor ]
-             Data Structures, Algorithms in C++, competitive problem solving (LeetCode, GFG).
-```
-
----
+<img src="./assets/divider.svg" width="100%" />
 
 ### 📊 Activity & Analytics
 
 <div align="center">
 
-<!-- Snake Contribution Animation (Auto-updated daily via GitHub Actions) -->
+<!-- Snake Contribution Animation (Auto-updated daily) -->
 <img src="https://raw.githubusercontent.com/desmond009/desmond009/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 <br/><br/>
@@ -217,17 +192,17 @@ $ sys-status --active-workstreams --verbose
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-### 🔬 Technical Depth & Research Focus
+### 🔬 Technical Depth & Research
 
 <details>
   <summary><b>🔹 Distributed Systems &amp; High-Concurrency Backend Architecture</b></summary>
   <br/>
   <ul>
-    <li>Designing fault-tolerant microservices, queue orchestrators (e.g. <code>QueueCTL</code>), and Redis-backed caching strategies.</li>
-    <li>Optimizing database indexing, write-heavy workloads, and connection pooling across MongoDB and PostgreSQL.</li>
-    <li>Decoupling monolithic request flows with event-driven message queues and background workers.</li>
+    <li>Designing fault-tolerant microservices, queue orchestrators (<code>QueueCTL</code>), and Redis caching.</li>
+    <li>Optimizing database indexing and connection pooling across MongoDB and PostgreSQL.</li>
+    <li>Decoupling request flows with event-driven message queues and background workers.</li>
   </ul>
 </details>
 
@@ -235,9 +210,9 @@ $ sys-status --active-workstreams --verbose
   <summary><b>🔹 Web3, Decentralized Finance &amp; Smart Contract Auditing</b></summary>
   <br/>
   <ul>
-    <li>Building EVM staking mechanisms (<code>OrcaEarn</code>) and multi-token airdrop protocols on Solana (<code>Sol_Faucet</code>).</li>
-    <li>Analyzing smart contract attack vectors: reentrancy, front-running, oracle manipulation, and gas optimization techniques.</li>
-    <li>Bridging client state with chain state through optimistic UI updates and low-latency WebSocket RPC listeners.</li>
+    <li>Building EVM staking mechanisms (<code>OrcaEarn</code>) and Solana token airdrop portals (<code>Sol_Faucet</code>).</li>
+    <li>Analyzing smart contract security: reentrancy, front-running, and gas optimization.</li>
+    <li>Synchronizing client state with chain state through optimistic UI updates and WebSocket RPC listeners.</li>
   </ul>
 </details>
 
@@ -245,13 +220,13 @@ $ sys-status --active-workstreams --verbose
   <summary><b>🔹 Real-Time Voice AI &amp; Intelligent Agent Streaming</b></summary>
   <br/>
   <ul>
-    <li>Architecting end-to-end voice pipelines connecting speech-to-text (STT), low-latency LLM stream reasoning, and text-to-speech (TTS).</li>
+    <li>Architecting end-to-end voice pipelines connecting speech-to-text, LLM stream reasoning, and TTS.</li>
     <li>Mitigating latency across bidirectional WebSockets and chunked audio playback buffers.</li>
-    <li>Building agent tool-calling workflows for contextual voice assistants and spatial validation systems.</li>
+    <li>Building tool-calling workflows for autonomous voice agents and spatial validation systems.</li>
   </ul>
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ### 💡 Engineering Principles
 
@@ -264,7 +239,7 @@ $ sys-status --active-workstreams --verbose
 > **3. Reliability is an architectural choice.**  
 > *Failures are inevitable in distributed environments; resilience must be designed from day one.*
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ### 📬 Let's Build Something Exceptional
 
