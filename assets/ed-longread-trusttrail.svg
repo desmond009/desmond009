@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-label="TrustTrail: Signing in shouldn’t mean handing over everything">
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.06 0"/>
+  </filter>
+</defs>
+<rect width="1000" height="500" fill="#F4EFE6"/>
+<rect width="1000" height="500" filter="url(#grain)"/>
+<text x="40" y="48" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="start" letter-spacing="2" >IDENTITY  ·  RESEARCH</text>
+<text x="960" y="48" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" font-style="normal" fill="#6B6257" text-anchor="end" letter-spacing="2" >PAGE 04  ·  THE LONG READ</text>
+<line x1="40" y1="62" x2="960" y2="62" stroke="#1A1714" stroke-width="1.5"/>
+<text x="40" y="114" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >Signing in shouldn’t mean handing over</text>
+<text x="40" y="160" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >everything</text>
+<text x="40" y="200" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="17.5" font-weight="400" font-style="italic" fill="#6B6257" text-anchor="start" letter-spacing="0" >TrustTrail is a privacy-aware federated login for a university, built as a follow-up to Werner, Westphall &amp;</text>
+<text x="40" y="226" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="17.5" font-weight="400" font-style="italic" fill="#6B6257" text-anchor="start" letter-spacing="0" >Westphall (2017), “Cloud Identity Management: A Survey on Privacy Strategies.”</text>
+<text x="38" y="324" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="65.6" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="start" letter-spacing="0" >S</text>
+<text x="81.6" y="276" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >tudents sign in once through Keycloak, and the library, the</text>
+<text x="81.6" y="301" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >learning system and the exam portal each receive only what they</text>
+<text x="81.6" y="326" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >have a stated purpose for. A custom Keycloak mapper enforces</text>
+<text x="40" y="351" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >that purpose binding. Every disclosure goes into a ledger whose</text>
+<text x="40" y="376" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >entries are anchored on a local Hardhat chain, so they can be audited</text>
+<text x="40" y="401" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16" font-weight="400" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >later.</text>
+<line x1="650" y1="262" x2="960" y2="262" stroke="#B3261E" stroke-width="2.5"/>
+<text x="646" y="326" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="80" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="start" letter-spacing="0" >“</text>
+<text x="684" y="304" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="25" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >Accountable,</text>
+<text x="684" y="337" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="25" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >purpose-bound</text>
+<text x="684" y="370" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="25" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >disclosure.</text>
+<text x="684" y="402" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" fill="#6B6257" text-anchor="start" letter-spacing="0.5" >— from the README</text>
+<line x1="650" y1="424" x2="960" y2="424" stroke="#B3261E" stroke-width="2.5"/>
+<line x1="40" y1="454" x2="960" y2="454" stroke="#1A1714" stroke-width="0.8"/>
+<text x="40" y="478" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" font-style="normal" fill="#6B6257" text-anchor="start" letter-spacing="0.3" >Python · Keycloak · Java · Solidity · Docker</text>
+<text x="960" y="478" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="end" letter-spacing="0" >Read the repo →</text>
+</svg>

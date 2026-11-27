@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="430" viewBox="0 0 490 430" role="img" aria-label="Stop the scam before the money moves">
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.06 0"/>
+  </filter>
+</defs>
+<rect width="490" height="430" fill="#F4EFE6"/>
+<rect width="490" height="430" filter="url(#grain)"/>
+<text x="30" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="start" letter-spacing="2" >FINTECH  ·  ML</text>
+<text x="460" y="44" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" font-style="normal" fill="#6B6257" text-anchor="end" letter-spacing="2" >PAGE 03</text>
+<line x1="30" y1="58" x2="460" y2="58" stroke="#1A1714" stroke-width="1.5"/>
+<text x="30" y="104" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="31" font-weight="700" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >Stop the scam before the</text>
+<text x="30" y="141" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="31" font-weight="700" font-style="normal" fill="#1A1714" text-anchor="start" letter-spacing="0" >money moves</text>
+<text x="30" y="179" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >Each UPI-style payment gets a 0–100 risk score with</text>
+<text x="30" y="204" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >plain-language reasons. High-risk ones trigger a</text>
+<text x="30" y="229" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="400" font-style="italic" fill="#1A1714" text-anchor="start" letter-spacing="0" >10-second safety pause and a retyped payee ID.</text>
+<line x1="30" y1="268" x2="70" y2="268" stroke="#B3261E" stroke-width="3"/>
+<text x="30" y="312" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" font-style="normal" fill="#B3261E" text-anchor="start" letter-spacing="-1" >165k</text>
+<text x="30" y="338" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Charter, Georgia, 'Times New Roman', serif" font-size="13.5" font-weight="400" font-style="italic" fill="#6B6257" text-anchor="start" letter-spacing="0" >synthetic transactions to train and calibrate the model</text>
+<line x1="30" y1="384" x2="460" y2="384" stroke="#CFC5B4" stroke-width="1"/>
+<text x="30" y="408" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal" fill="#6B6257" text-anchor="start" letter-spacing="0.2" >TypeScript · Python · ML · Docker</text>
+</svg>
