@@ -16,9 +16,9 @@
 ### `$ ls ~/projects --recent`
 
 <p align="center">
-  <a href="https://github.com/desmond009/Scam-shield"><img src="./assets/card-scam-shield.svg" alt="ScamShield: catches UPI payment scams before the money moves" width="49%" /></a>
   <a href="https://github.com/desmond009/Zipp"><img src="./assets/card-zipp.svg" alt="Zipp: URL shortener built to study system design, 17k req/s" width="49%" /></a>
   <a href="https://github.com/desmond009/RingLeader"><img src="./assets/card-ringleader.svg" alt="RingLeader: autonomous fraud-investigation agent" width="49%" /></a>
+  <a href="https://github.com/desmond009/Scam-shield"><img src="./assets/card-scam-shield.svg" alt="ScamShield: catches UPI payment scams before the money moves" width="49%" /></a>
   <a href="https://github.com/desmond009/Trust-Trail"><img src="./assets/card-trust-trail.svg" alt="TrustTrail: privacy-aware federated login" width="49%" /></a>
   <a href="https://github.com/desmond009/QueueCTL"><img src="./assets/card-queuectl.svg" alt="QueueCTL: persistent CLI job queue" width="49%" /></a>
   <a href="https://github.com/desmond009/OrcaEarn"><img src="./assets/card-orcaearn.svg" alt="OrcaEarn: ETH staking with ORCA token rewards" width="49%" /></a>

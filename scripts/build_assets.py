@@ -63,7 +63,7 @@ STACK = [
 ]
 
 LOG = [
-    ("e41c0d2", "2026", "HEAD -> main", "fraud, identity & agentic AI", "ScamShield · TrustTrail · RingLeader · Zipp"),
+    ("e41c0d2", "2026", "HEAD -> main", "fraud, identity & agentic AI", "Zipp · RingLeader · ScamShield · TrustTrail"),
     ("c8f92a1", "2026", "tag: hobbyfi", "Full Stack Developer Intern @ HobbyFi", "web + mobile features, components, APIs"),
     ("7d3e0b4", "2025", "tag: web3", "smart contracts & DeFi", "OrcaEarn · TollCrypt · Sol_Faucet"),
     ("4a821e9", "2024", "tag: fullstack", "first full-stack apps", "Minilink · SoulScript"),
