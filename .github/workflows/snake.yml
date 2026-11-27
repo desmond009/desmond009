@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # runs daily at midnight UTC
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
 
 jobs:
   generate:
@@ -16,6 +19,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+            dist/snake-terminal.svg?color_snake=#4ADE80&color_dots=#11161D,#0e4429,#006d32,#26a641,#4ADE80
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
